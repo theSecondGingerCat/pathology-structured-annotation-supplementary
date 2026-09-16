@@ -4,11 +4,6 @@
 
 This repository provides the supplementary material accompanying the paper **“Pathology-Knowledge-Guided Structured Annotation for Clinical Speech Audio.”**
 
-### Files
-
-- [`supplementary_material_final.pdf`](supplementary_material_final.pdf): compiled supplementary material for review.
-- [`supplementary_material_final.tex`](supplementary_material_final.tex): LaTeX source.
-
 ### Contents
 
 The supplementary material includes:
